@@ -18,7 +18,7 @@
       <a href="home.php" class="logo">SANYU MOBILE PET SPA<span>.</span></a>
 
       <nav class="navbar">
-         <a href="home.php">Home</a>
+         <a href="index.php">Home</a>
          <a href="services.php">Services</a>
          <a href="about.php">About</a>
          <a href="orders.php">Orders</a>
